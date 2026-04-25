@@ -39,7 +39,7 @@ I am a software engineer specializing in high-performance backend architecture a
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Faceless Shorts Engine](https://github.com/gr-grassim/faceless-shorts-engine)** | A completely hands-off, pure Python automation pipeline that ingests structured data to autonomously render and composite vertical video outputs. | `Python`, `MoviePy`, `Pillow`, `Pandas` |
-| **BragBoard** | A gamified employee appreciation platform. Engineered the complete data flow from the responsive UI layer to the relational database. | `FastAPI`, `React.js`, `PostgreSQL` |
+| **[BragBoard](https://github.com/gr-grassim/BragBoard)** | A gamified employee appreciation platform. Engineered the complete data flow from the responsive UI layer to the relational database. | `FastAPI`, `React.js`, `PostgreSQL` |
 
 ---
 
