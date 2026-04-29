@@ -1,5 +1,5 @@
 # 👨‍💻 Grassim Jaiswal
-**Full-Stack Python Architect | AI/ML Engineer**
+**AI/ML Engineer | Full-Stack Python Architect**
 
 I am a software engineer specializing in high-performance backend architecture and data orchestration pipelines. With a foundation in full-stack development, I am actively researching and deploying Agentic AI solutions and scalable automation engines. I build systems from the ground up to deeply understand the underlying mechanics rather than relying on black-box abstractions.
 
